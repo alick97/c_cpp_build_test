@@ -2,6 +2,8 @@
 *.i
 *.s
 *.o
+*.a
+*.so
 
 # target dir
 target
