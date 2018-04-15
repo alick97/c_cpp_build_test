@@ -1,3 +1,4 @@
 #!/bin/bash
-lcov  -d src -t 'MY GCOV' -o show.info -b coverage_for_so  -c 
+cd target
+lcov  -d ../ -t 'MY GCOV' -o show.info -c 
 genhtml -o gcov_html show.info
