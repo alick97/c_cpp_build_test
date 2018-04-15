@@ -1,0 +1,10 @@
+#build tmp
+*.i
+*.s
+*.o
+
+# target dir
+target
+
+#vscode
+.vscode
