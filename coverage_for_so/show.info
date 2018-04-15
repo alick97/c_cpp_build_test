@@ -1,0 +1,12 @@
+TN:MY_GCOV
+SF:/home/alick/workspace/cpp_build_learn/coverage_for_so/src/main.c
+FN:3,main
+FNDA:2,main
+FNF:1
+FNH:1
+DA:3,2
+DA:5,2
+DA:6,2
+LF:3
+LH:3
+end_of_record
